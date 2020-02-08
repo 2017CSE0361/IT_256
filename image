@@ -1,0 +1,12 @@
+<html>
+<head>
+      <title>imagemap</title>
+<body>
+<img src="/home/6CSE6/Downloads/m.jpeg" alt="workplace" usemap="#workmap">
+<map name="workmap">
+<area shape="rect" coords="34,44,270,350" alt="computer" href="/home/6CSE6/mani/activity2.html">
+<area shape="rect" coords="290,172,333,250" alt="phone" href="/home/6CSE6/mani/table.html">
+<area shape="circle" coords="337,300,44" alt="coffee" href="/home/6CSE6/mani/table2.html">
+</map> 
+</body>
+
